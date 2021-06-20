@@ -24,6 +24,12 @@
 		{
 			"name": "CSS",
 			"path": "."
+		},
+		{
+			"path": "GroceryInventory"
+		},
+		{
+			"path": "Grid_Chap6"
 		}
 	],
 	"settings": {}
